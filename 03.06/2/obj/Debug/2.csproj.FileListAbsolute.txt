@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\03.06\2\bin\Debug\2.exe.config
+C:\Users\Lenovo\source\repos\03.06\2\bin\Debug\2.exe
+C:\Users\Lenovo\source\repos\03.06\2\bin\Debug\2.pdb
+C:\Users\Lenovo\source\repos\03.06\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\03.06\2\obj\Debug\2.exe
+C:\Users\Lenovo\source\repos\03.06\2\obj\Debug\2.pdb
